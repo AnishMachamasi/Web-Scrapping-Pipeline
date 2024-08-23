@@ -10,12 +10,11 @@ as Product URL, Product Name, Product Price, Rating, Number of reviews, ASIN, Pr
 ## Usage
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/amazon-data-scraper.git
+git clone https://github.com/AnishMachamasi/Web-Scrapping-Pipeline.git
 ```
 2. Install the required packages
 ```
-pip install selenium
-pip install beautifulsoup4
+pip install -r requirements.txt
 ```
 3. Download the appropriate webdriver for your browser and place it in your PATH, or specify its location in the script.
 
