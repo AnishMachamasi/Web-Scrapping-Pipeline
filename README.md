@@ -24,5 +24,8 @@ pip install -r requirements.txt
 ```
 python amazon_scraper.py
 ```
+
+The code given, uses minio located at `localhost:9000` to store the data. So it is necessary to setup minio to run the code successfully. Otherwise, you can customize the code yourself, and store it in your local system.
+
 6. Output
 The script will generate a CSV file containing the extracted data.
