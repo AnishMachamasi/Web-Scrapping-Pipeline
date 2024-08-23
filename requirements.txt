@@ -1,0 +1,5 @@
+python
+selenium
+beautifulsoup4
+minio
+webdriver-manager
